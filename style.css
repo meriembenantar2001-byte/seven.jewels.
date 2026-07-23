@@ -1,14 +1,14 @@
-/* 1. تعريف خط Orkney بالامتداد الصحيح .otf ومسار المجلد الصحيح */
+/* 1. تعريف خط Orkney بالامتداد الصحيح ومسار المجلد الصحيح */
 @font-face {
     font-family: 'Orkney';
-    src: url('../font/orkney-regular.otf') format('opentype');
+    src: url('font/orkney-regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Orkney';
-    src: url('../font/orkney-bold.otf') format('opentype');
+    src: url('font/orkney-bold.otf') format('opentype');
     font-weight: bold;
     font-style: normal;
 }
